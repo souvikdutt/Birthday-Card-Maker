@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BirthdayCardMaker</string>
+    <string name="enter_your_name">Enter Name</string>
+</resources>
